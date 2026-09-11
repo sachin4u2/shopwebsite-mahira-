@@ -15,6 +15,11 @@ Then open <http://localhost:4173/index.html>.
 
 ## Pages
 
+
+## Live Demo 🚀
+
+You can view the live website here: [Live Demo](https://sachin4u2.github.io/shopwebsite-mahira-/)
+
 | Page | Purpose |
 | --- | --- |
 | `index.html` | Landing page — curtain intro, hero sequence, editorial sections |
